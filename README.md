@@ -1,2 +1,0 @@
-# SandBoxCodingStudies
-Created with CodeSandbox
